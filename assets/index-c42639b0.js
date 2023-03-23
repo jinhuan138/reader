@@ -156,4 +156,4 @@ var VT=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports);var qie=VT((xr,Nr
 .tocButtonExpanded[data-v-0d20dfb2] {\r
   background: #f2f2f2;
 }\r
-`),Mv.__scopeId="data-v-0d20dfb2",Mv.__file="src/modules/VueReader/VueReader.vue";const Hie=(e,t)=>{const n=e.__vccOpts||e;for(const[r,o]of t)n[r]=o;return n},jie={class:"container"},Wie={class:"vueContainer"},Kie={__name:"App",setup(e){return(t,n)=>(x(),j("div",jie,[q("div",Wie,[Z(c(Mv),{url:"./files/啼笑因缘.epub",title:"啼笑因缘"})])]))}},Uie=Hie(Kie,[["__scopeId","data-v-0d67137f"]]),OT=X_(Uie);OT.use(_re);OT.mount("#app")});export default qie();
+`),Mv.__scopeId="data-v-0d20dfb2",Mv.__file="src/modules/VueReader/VueReader.vue";const Hie=(e,t)=>{const n=e.__vccOpts||e;for(const[r,o]of t)n[r]=o;return n},jie={class:"container"},Wie={class:"vueContainer"},Kie={__name:"App",setup(e){return(t,n)=>(x(),j("div",jie,[q("div",Wie,[Z(c(Mv),{url:"/reader/files/啼笑因缘.epub",title:"啼笑因缘"})])]))}},Uie=Hie(Kie,[["__scopeId","data-v-0d67137f"]]),OT=X_(Uie);OT.use(_re);OT.mount("#app")});export default qie();
